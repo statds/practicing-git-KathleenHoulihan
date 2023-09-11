@@ -57,6 +57,6 @@ Extend your GitHub reach through integrations, or by installing GitHub
 Desktop and the robust Visual Studio Code text editor.
 
 Learn how to launch and grow your open source project with the Open 
-Source Guihjghdes.
+Source Guides.
 
 
