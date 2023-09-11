@@ -59,4 +59,4 @@ Desktop and the robust Visual Studio Code text editor.
 Learn how to launch and grow your open source project with the Open 
 Source Guides.
 
-
+You can directly edit files on GitHub, like I am doing now.
